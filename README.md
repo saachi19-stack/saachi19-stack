@@ -25,7 +25,7 @@ Projects....... Data Science | Streamlit | Web Development
 Hackathons..... 5+ Participated | Top 10 Finalist | 1 Podium Finish
 Interests...... AI • Open Source • UI/UX • Problem Solving
 Contact........ saachikhanna19@gmail.com
-LinkedIn....... ttps://www.linkedin.com/in/saachi-khanna-b45436381?utm_source=share_via&utm_content=profile&utm_medium=member_android
+LinkedIn....... https://www.linkedin.com/in/saachi-khanna-b45436381?utm_source=share_via&utm_content=profile&utm_medium=member_android
 GitHub......... github.com/saachi19-stack
 ```
 
