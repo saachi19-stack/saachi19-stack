@@ -30,14 +30,13 @@ GitHub......... github.com/saachi19-stack
 ```
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saachi19-stack&show_icons=true&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saachi19-stack&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saachi19-stack&layout=compact&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saachi19-stack&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=saachi19-stack&theme=github-dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saachi19-stack&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=saachi19-stack&theme=tokyonight&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=saachi19-stack&theme=darkhub&no-frame=true)
 
 ### 🚀 Tech Stack
 
